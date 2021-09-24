@@ -1,0 +1,16 @@
+D:\jwrepos\Jonhelloworld\bin\Debug\net5.0\Jonhelloworld.exe
+D:\jwrepos\Jonhelloworld\bin\Debug\net5.0\Jonhelloworld.deps.json
+D:\jwrepos\Jonhelloworld\bin\Debug\net5.0\Jonhelloworld.runtimeconfig.json
+D:\jwrepos\Jonhelloworld\bin\Debug\net5.0\Jonhelloworld.runtimeconfig.dev.json
+D:\jwrepos\Jonhelloworld\bin\Debug\net5.0\Jonhelloworld.dll
+D:\jwrepos\Jonhelloworld\bin\Debug\net5.0\ref\Jonhelloworld.dll
+D:\jwrepos\Jonhelloworld\bin\Debug\net5.0\Jonhelloworld.pdb
+D:\jwrepos\Jonhelloworld\obj\Debug\net5.0\Jonhelloworld.csproj.AssemblyReference.cache
+D:\jwrepos\Jonhelloworld\obj\Debug\net5.0\Jonhelloworld.GeneratedMSBuildEditorConfig.editorconfig
+D:\jwrepos\Jonhelloworld\obj\Debug\net5.0\Jonhelloworld.AssemblyInfoInputs.cache
+D:\jwrepos\Jonhelloworld\obj\Debug\net5.0\Jonhelloworld.AssemblyInfo.cs
+D:\jwrepos\Jonhelloworld\obj\Debug\net5.0\Jonhelloworld.csproj.CoreCompileInputs.cache
+D:\jwrepos\Jonhelloworld\obj\Debug\net5.0\Jonhelloworld.dll
+D:\jwrepos\Jonhelloworld\obj\Debug\net5.0\ref\Jonhelloworld.dll
+D:\jwrepos\Jonhelloworld\obj\Debug\net5.0\Jonhelloworld.pdb
+D:\jwrepos\Jonhelloworld\obj\Debug\net5.0\Jonhelloworld.genruntimeconfig.cache
